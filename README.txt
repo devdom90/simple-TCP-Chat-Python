@@ -41,7 +41,6 @@ Der Server ist so konfiguriert, dass er nur auf Verbindungen von "127.0.0.1" (lo
 
 Beachten Sie, dass dieser Server für Bildschirmausgaben und Debugging-Zwecke ausgelegt ist. In einer produktiven Umgebung sollten Sie die Ausgaben entfernen oder umleiten.
 
-Diese Dokumentation bietet eine grundlegende Übersicht über den Chat-Server und seine Verwendung. Sie können sie weiter anpassen und erweitern, um zusätzliche Informationen oder Anleitungen hinzuzufügen, die für Ihre spezifische Anwendung relevant sind.
 
 
 Viel Spaß beim erweitern.
